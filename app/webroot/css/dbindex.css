@@ -1,0 +1,44 @@
+td.call,th.call{
+text-align: center;
+}
+
+
+.title {
+  display: block;
+  width: 400px;
+  padding: 0;
+  margin-bottom: 0px;
+  font-size: 21px;
+  line-height: 40px;
+  color: #333333;
+  border: 0;
+
+}
+
+#incomplete {
+	border: 1px solid black;
+	background-color: #EBCCCC;
+	width: 11px;
+	height: 11px;
+	display: inline-block;
+	margin-right: 2px;
+}
+
+#complete {
+	border: 1px solid black;
+	width: 11px;
+	height: 11px;
+	display: inline-block;
+	margin-right: 2px;
+	margin-left: 10px;
+}
+
+#checked {
+	border: 1px solid black;
+	background-color: #D9EDF7;
+	width: 11px;
+	height: 11px;
+	display: inline-block;
+	margin-right: 2px;
+	margin-left: 10px;
+}
